@@ -1,12 +1,14 @@
-_site/*
-_theme_packages/*
-
-Thumbs.db
 .DS_Store
+.idea/
+*.log
+node_modules/
 
-!.gitkeep
+# Ignore unused verdors' files
+source/vendors/fancybox/*
+!source/vendors/fancybox/source/
 
-.rbenv-version
-.rvmrc
+source/vendors/font-awesome/less/
+source/vendors/font-awesome/scss/
 
-*.lock
+source/vendors/ua-parser-js/*
+!source/vendors/ua-parser-js/dist/
