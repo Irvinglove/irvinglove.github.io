@@ -128,11 +128,11 @@ google_analytics:
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
-  enable: true
+  enable: false
   sitecode:  ?f8352cbbcfa3f1ae85c9b05c7695e224  ## e.g. e6d1f421bbc9962127a50488f9ed37d1 your baidu tongji site code
 cnzz_tongji:
-  enable: false
-  siteid:    ## e.g. 1253575964 your cnzz tongji site id
+  enable: true
+  siteid:    1259403460 ## e.g. 1253575964 your cnzz tongji site id
 
 #### Miscellaneous
 fancybox: true        ## if you use gallery post or want use fancybox please set the value to true.
