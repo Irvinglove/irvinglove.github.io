@@ -6,23 +6,21 @@ encoding: utf-8
 # 作者信息
 author: 
   name: 吕立青
-  email: lv460051518@gmail.com
-  link: https://blog.jimmylv.info
-  weibo: https://weibo.com/liqing215
-  github: https://github.com/JimmyLv
-  zhihu: https://www.zhihu.com/people/JimmyLv
-  juejin: https://juejin.im/user/5628752900b07a1836200154
-  stackoverflow: https://stackoverflow.com/users/5871340/jimmylv
+  email: zhangbobupt@qq.com
+  link: http://www.irvingzhang.top/
+  weibo: https://weibo.com/u/6041767999/home
+  github: https://github.com/Irvinglove
+  zhihu: https://www.zhihu.com/people/zhang-bo-62-40/activities
 
 # 站点信息
-title: 吕立青的博客
-description: 想做产品，却误入程序世界爱上设计的摄影师。
-url: https://blog.jimmylv.info
-repo: https://github.com/JimmyLv/jimmylv.github.io
+title: 张博的博客
+description: 对 代 码 的 不 满 足 ， 是 所 有 程 序 员 的 本 质 特 征。
+url: http://www.irvingzhang.top/
+repo: http://www.irvingzhang.top/
 rss: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: https://o7mw3gkkh.qnssl.com/blog/public/img/gavatar.jpg
+gavatar: https://avatars2.githubusercontent.com/u/8968421?s=400&u=5d95990ac91578d66a730bc41238484be29e75ff&v=4
 favicon: https://o7mw3gkkh.qnssl.com/blog/public/img/favicon.ico
 
 # google analytics 设置
@@ -38,9 +36,9 @@ disqus:
 active: 思考
 
 # 首页除了最新文章外显示分类
-cates: 
-  - React
-  - 摄影
+# cates: 
+#  - React
+#  - 摄影
 
 # 中文本地化
 locals:
