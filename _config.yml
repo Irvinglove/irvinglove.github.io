@@ -5,7 +5,7 @@ encoding: utf-8
 
 # 作者信息
 author: 
-  name: 吕立青
+  name: 张博
   email: zhangbobupt@qq.com
   link: http://www.irvingzhang.top/
   weibo: https://weibo.com/u/6041767999/home
@@ -25,8 +25,8 @@ favicon: https://o7mw3gkkh.qnssl.com/blog/public/img/favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-74789926-1
-  url: https://blog.jimmylv.info
+  id: UA-108258615-1
+  url: http://www.irvingzhang.top/
 
 # disqus 设置
 disqus:
