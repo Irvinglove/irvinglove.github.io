@@ -22,26 +22,26 @@ Tensorflow在github上会有大量的有趣的实例，比如学习[梵高作画
 
  3. [Text Classification(CNN)](https://github.com/dennybritz/cnn-text-classification-tf)
  
- 4. 导读：[Sentence Similarity(CNN)](http://blog.csdn.net/irving_zhang/article/details/69440789)
+ 4. 导读：[Sentence Similarity(CNN)](http://blog.csdn.net/irving_zhang/article/details/69440789)<br>
 项目：[Tensorflow实例-CNN处理句子相似度](https://github.com/Irvinglove/TF_Sentence_Similarity_CNN)
 
- 5.  论文：[Multi-Perspective Sentence Similarity Modeling with Convolutional Neural Networks](https://pdfs.semanticscholar.org/0f69/24633c56832b91836b69aedfd024681e427c.pdf)
- 项目：[github](https://github.com/Irvinglove/MP-CNN-Tensorflow-sentence-similarity)
+ 5.  论文：[Multi-Perspective Sentence Similarity Modeling with Convolutional Neural Networks](https://pdfs.semanticscholar.org/0f69/24633c56832b91836b69aedfd024681e427c.pdf)<br>
+ 项目：[github](https://github.com/Irvinglove/MP-CNN-Tensorflow-sentence-similarity)<br>
 导读：[Tensorflow实例-CNN处理句子相似度（MPCNN）](http://blog.csdn.net/irving_zhang/article/details/70036708)
 
- 6.  论文：[Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626)
- 项目：[github](https://github.com/Irvinglove/char-CNN-text-classification-tensorflow)
+ 6.  论文：[Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626)<br>
+ 项目：[github](https://github.com/Irvinglove/char-CNN-text-classification-tensorflow)<br>
  导读：[基于字符的卷积神经网络实现文本分类（char-level CNN）-论文详解及tensorflow实现](http://blog.csdn.net/irving_zhang/article/details/75634108)
 
- 7. 文章：[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-项目：[github](https://github.com/sherjilozair/char-rnn-tensorflow)
+ 7. 文章：[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)<br>
+项目：[github](https://github.com/sherjilozair/char-rnn-tensorflow)<br>
 导读：[基于循环神经网络实现基于字符的语言模型（char-level RNN Language Model）-tensorflow实现](http://blog.csdn.net/irving_zhang/article/details/76038710)
 
- 8.  论文：[Implementation of Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
- 项目：[github](https://github.com/Irvinglove/HAN-text-classification)
+ 8.  论文：[Implementation of Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)<br>
+ 项目：[github](https://github.com/Irvinglove/HAN-text-classification)<br>
  导读：[Implementation of Hierarchical Attention Networks for Document Classification的讲解与Tensorflow实现](http://blog.csdn.net/irving_zhang/article/details/77868620)
- 9. 论文：[Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://arxiv.org/pdf/1506.07285.pdf)
- 项目：[github](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow)
+ 9. 论文：[Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://arxiv.org/pdf/1506.07285.pdf)<br>
+ 项目：[github](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow)<br>
  导读：[Ask Me Anything: Dynamic Memory Networks for Natural Language Processing 阅读笔记及tensorflow实现](http://blog.csdn.net/irving_zhang/article/details/78113251)
  
  10.  实战：[ 基于深度学习的大规模多标签文本分类任务总结](http://blog.csdn.net/irving_zhang/article/details/78273486)
