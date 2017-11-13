@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 张博的博客
+email: zhangbobupt@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  张博的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://irvingzhang.top # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Bo Zhang
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,19 +14,17 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
+weibo: u/6041767999/home
+github: irvinglove
+instagram: irvingzhang
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: http://imglf6.nosdn.127.net/img/T2ozeGQ1Mzd3blBmQ1NvcW5LV05lc0EwL2lBb3c3KzlhMmJRNmtzVFZtaDJETkNwamY4eGt3PT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg
+favicon: http://imglf5.nosdn.127.net/img/T2ozeGQ1Mzd3blBmQ1NvcW5LV05lcE0wVXMvaXZXQS9yQ083Uzd4djU0K1RrUW1Sbm5zeEhRPT0.jpg?imageView&amp;thumbnail=1680x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: irvingzhang-zh
 
 # google analytics config
 ga:
