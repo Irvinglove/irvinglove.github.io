@@ -19,8 +19,8 @@ github: irvinglove
 instagram: irvingzhang
 
 # avatar and Favicon
-avatar: public/img/avatar.jpg
-favicon: public/img/bitbug_favicon.ico
+avatar: ../../../public/img/avatar.jpg
+favicon: ../../../public/img/bitbug_favicon.ico
 
 # disqus config
 disqus:
