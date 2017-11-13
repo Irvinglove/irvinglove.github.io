@@ -1,63 +1,50 @@
-permalink: /:year-:month-:day-:title/
-paginate: 10
-markdown: kramdown
-encoding: utf-8
+# Site settings
+title: 闫肃的博客
+email: suyan0830@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  闫肃的博客
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://yansu.org # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Su Yan
 
-# 作者信息
-author: 
-  name: 张博
-  email: zhangbobupt@qq.com
-  link: http://www.irvingzhang.top/
-  weibo: https://weibo.com/u/6041767999/home
-  github: https://github.com/Irvinglove
-  zhihu: https://www.zhihu.com/people/zhang-bo-62-40/activities
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
 
-# 站点信息
-title: 张博的博客
-description: 对 代 码 的 不 满 足 ， 是 所 有 程 序 员 的 本 质 特 征。
-url: http://www.irvingzhang.top/
-repo: http://www.irvingzhang.top/
-rss: /pages/atom.xml
+# Social account
+twitter: masonsuyan
+weibo: suyan0830
+github: suyan
+instagram: suyan0830
+linkedin: suyan0830
 
-# gavatar头像及Favicon
-gavatar: https://avatars2.githubusercontent.com/u/8968421?s=400&u=5d95990ac91578d66a730bc41238484be29e75ff&v=4
-favicon: https://o7mw3gkkh.qnssl.com/blog/public/img/favicon.ico
+# avatar and Favicon
+avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
-# google analytics 设置
-ga:
-  id: UA-108258615-1
-  url: http://www.irvingzhang.top/
-
-# disqus 设置
+# disqus config
 disqus:
-  shortname: gotoshare
+  shortname: suyan-zh
 
-# 主题设置，自动激活某个标签
-active: 思考
+# google analytics config
+ga:
+  id: UA-54767140-1
+  url: yansu.org
 
-# 首页除了最新文章外显示分类
-# cates: 
-#  - React
-#  - 摄影
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
 
-# 中文本地化
-locals:
-  tags: 标签
-  about: 关于
-  newest: 最新文章
-  archive: 归档
-
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
 gems:
   - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll/tagging
-  - jekyll-tagging-related_posts
   - jekyll-seo-tag
+  - jekyll-feed
 
-exclude:
-  - .idea/
-  - .github/
-  - .travis/
-  - node_modules/
-  - themes/
-  - _posts/演讲/assets
