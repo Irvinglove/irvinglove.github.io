@@ -14,13 +14,13 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-weibo: u/6041767999/home
+weibo: 6041767999
 github: irvinglove
 instagram: irvingzhang
 
 # avatar and Favicon
-avatar: http://imglf6.nosdn.127.net/img/T2ozeGQ1Mzd3blBmQ1NvcW5LV05lc0EwL2lBb3c3KzlhMmJRNmtzVFZtaDJETkNwamY4eGt3PT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg
-favicon: http://imglf5.nosdn.127.net/img/T2ozeGQ1Mzd3blBmQ1NvcW5LV05lcE0wVXMvaXZXQS9yQ083Uzd4djU0K1RrUW1Sbm5zeEhRPT0.jpg?imageView&amp;thumbnail=1680x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg
+avatar: public/img/avatar.jpg
+favicon: public/img/bitbug_favicon.ico
 
 # disqus config
 disqus:
